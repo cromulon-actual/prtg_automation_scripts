@@ -1,0 +1,16 @@
+bin/
+Lib/
+Scripts/
+Include/
+local_files/
+inventory/
+.vscode/
+modules/nice.py
+*.pyc
+*.pyo
+*.log
+*.json
+*.csv
+*.cfg
+*.yaml
+.DS_Store

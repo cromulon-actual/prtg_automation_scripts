@@ -1,0 +1,5 @@
+netmiko==2.4.2
+nornir
+requests
+phpipamsdk - https://github.com/efenian/phpipamsdk
+PHPIPAM installation
